@@ -1,2 +1,3 @@
-# homework-0
-My first GitHub repo
+#  mm_nintendosales
+
+Part of MakeoverMonday
